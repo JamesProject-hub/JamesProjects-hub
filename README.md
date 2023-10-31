@@ -1,7 +1,7 @@
 <h1>Hi, I'm James! Welcome to my projects!! <br/><a 
 <h2>👨‍💻 Projects:</h2>
 
-  - [Wazuh Home Lab](https://github.com/JamesProject-hub/Wazuh.git) <b><i>
+  - [Home Lab](https://github.com/JamesProject-hub/Wazuh.git) <b><i>
   - [Honey Pot](https://github.com/JamesProject-hub/Honey-Pot.git)
   - [Splunk](https://github.com/JamesProject-hub/Splunk.git)
   - [Active Directory Bulk User Creation](https://github.com/JamesProject-hub/Active-directory.git)
