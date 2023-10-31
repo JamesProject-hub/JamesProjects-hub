@@ -2,7 +2,7 @@
 <h2>👨‍💻 Projects:</h2>
 
   - [Wazuh](https://github.com/JamesProject-hub/Wazuh.git) <b><i>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Honey Pot](https://github.com/JamesProject-hub/Honey-Pot.git)
   - [Splunk](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
