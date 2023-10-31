@@ -1,14 +1,13 @@
 <h1>Hi, I'm James! Welcome to my projects!! <br/><a 
 <h2>👨‍💻 Projects:</h2>
 
-  - [Wazuh](https://github.com/JamesProject-hub/Wazuh.git) <b><i>
+  - [Wazuh Home Lab](https://github.com/JamesProject-hub/Wazuh.git) <b><i>
   - [Honey Pot](https://github.com/JamesProject-hub/Honey-Pot.git)
-  - [Splunk](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-  - [Zap - to scan authenicated pages)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Home Lab](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Splunk](https://github.com/JamesProject-hub/Splunk.git)
+  - [Active Directory Bulk User Creation](https://github.com/JamesProject-hub/Active-directory.git)
+  - [FIM (File Integrity Monitor)](https://github.com/JamesProject-hub/File-Integrity-Monitor.git)
+  - [Zap](https://github.com/JamesProject-hub/Zap.git)
+  - [Arp Scanner](https://github.com/JamesProject-hub/Arp-Scanner.git)
 
 <h2>👨‍💻 Administrative Projects:</h2>
 
