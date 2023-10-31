@@ -1,7 +1,7 @@
 <h1>Hi, I'm James! Welcome to my projects!! <br/><a 
 <h2>👨‍💻 Projects:</h2>
 
-  - [Wazuh](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
+  - [Wazuh](https://github.com/JamesProject-hub/Wazuh.git) <b><i>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Splunk](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
