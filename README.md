@@ -1,11 +1,7 @@
 <h1>Hi, I'm James! Welcome to my projects!! <br/><a 
 <h2>👨‍💻 Projects:</h2>
 
-  - [**Home Lab**](https://github.com/JamesProject-hub/Wazuh.git) <b><i>
-  - [**Honey Pot**](https://github.com/JamesProject-hub/Honey-Pot.git)
-  - [Splunk](https://github.com/JamesProject-hub/Splunk.git)
-  - [Active Directory Bulk User Creation](https://github.com/JamesProject-hub/Active-directory.git)
-  - [FIM (File Integrity Monitor)](https://github.com/JamesProject-hub/File-Integrity-Monitor.git)
+  - [**Soc Lab**](https://github.com/JamesProject-hub/Honey-Pot.git) <b><i>
   - [Wireshark/Psexec](https://publuu.com/flip-book/295337/687055)
   - [Arp Scanner](https://publuu.com/flip-book/295337/686783)
   - [Interal blue keylogger](https://publuu.com/flip-book/295337/686775)
