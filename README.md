@@ -1,7 +1,7 @@
 <h1>Hi, I'm James! Welcome to my projects!! <br/><a 
 <h2>👨‍💻 Projects:</h2>
 
-  - [**Building a SOC + Honeynet in Azure (Live Traffic)**](https://github.com/JamesProject-hub/Honey-Pot.git) <b><i>
+  - [**SOC/Honeynet(Live Traffic)**](https://github.com/JamesProject-hub/Honey-Pot.git) <b><i>
   - [Wireshark/Psexec](https://publuu.com/flip-book/295337/687055)
   - [Arp Scanner](https://publuu.com/flip-book/295337/686783)
   - [Interal blue keylogger](https://publuu.com/flip-book/295337/686775)
