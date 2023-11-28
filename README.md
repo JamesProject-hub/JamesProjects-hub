@@ -16,8 +16,6 @@
   - [Security Maturity Model](https://publuu.com/flip-book/295337/686731)
   
 
-<h2> 🤳 Connect with me:</h2>
 
-[linkedin]: https://www.linkedin.com/in/james-williams-6628b91b3/
 
 
